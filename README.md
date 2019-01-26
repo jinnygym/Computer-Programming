@@ -1,5 +1,5 @@
 # :book: Computer-Programming :book:
-Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).<br><br>
+Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).<br>
 <h6>Start: 24-Jan-19<br>
 Finish: -</h6>
 
