@@ -4,10 +4,23 @@ By: Suphitsara Cheevanantaporn 61070230*/
 #include <ctype.h>
 int main ()
 {
-    char str[];
-    scanf("%c", &str);
-    if (isdigit(str[0]))
+    char text;
+    scanf("%c", &text);
+    if (isdigit(text))
     {
         printf("number");
     }
+    else if (isupper(text))
+    {
+        printf("uppercase");
+    }
+    else if (islower(text))
+    {
+        printf("lowercase");
+    }
+    else
+    {
+        printf("error");
+    }
+    return 0;
 }
