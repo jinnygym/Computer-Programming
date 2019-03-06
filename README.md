@@ -8,9 +8,9 @@ Finish: -</h6>
 - [x] Lab 2
 - [x] Lab 3
 - [x] Lab 4
-- [ ] Lab 5
+- [x] Lab 5
 - [ ] Lab 6
 
 ### :bulb: By: Suphitsara Cheevanantaporn 61070230 
 <img src="https://img.shields.io/badge/made%20with-C-blue.svg" alt="made with C">
-Please DO NOT copy the whole algorithm or code for submitting.
+- [x] Please DO NOT copy the whole algorithm or code for submitting.
