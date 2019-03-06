@@ -11,6 +11,8 @@ Finish: -</h6>
 - [x] Lab 5 : Loop Structure
 - [ ] Lab 6 : Array
 - [ ] Lab 7 : Function
+- [x] Exam  : Midterm
+
 
 ### :bulb: By: Suphitsara Cheevanantaporn 61070230 
 <img src="https://img.shields.io/badge/made%20with-C-blue.svg" alt="made with C">
