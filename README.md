@@ -13,4 +13,4 @@ Finish: -</h6>
 
 ### :bulb: By: Suphitsara Cheevanantaporn 61070230 
 <img src="https://img.shields.io/badge/made%20with-C-blue.svg" alt="made with C">
-- [x] Please DO NOT copy the whole algorithm or code for submitting.
+Please DO NOT copy the whole algorithm or code for submitting.
