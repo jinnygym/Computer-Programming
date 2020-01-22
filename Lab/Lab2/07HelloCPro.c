@@ -1,4 +1,4 @@
-/*07 Hello C Programming*/
+/*Hello C Programming*/
 #include <stdio.h>
 int main()
 {
